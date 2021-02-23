@@ -1,0 +1,230 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+}
+.header {
+}
+.header-nav {
+}
+.nav-left {
+  // .nav-left__logo
+
+  &__logo {
+  }
+
+  // .nav-left__search
+
+  &__search {
+  }
+}
+.search-form {
+  // .search-form__input
+
+  &__input {
+  }
+
+  // .search-form__button
+
+  &__button {
+  }
+}
+.nav-icon {
+  // .nav-icon__menu
+
+  &__menu {
+  }
+
+  // .nav-icon__persona
+
+  &__persona {
+  }
+
+  // .nav-icon__cart
+
+  &__cart {
+  }
+}
+.content {
+}
+.slider {
+  // .slider__item
+
+  &__item {
+  }
+
+  // .slider__item-picture
+
+  &__item-picture {
+  }
+
+  // .slider__item-text
+
+  &__item-text {
+  }
+}
+.hot-deal {
+  // .hot-deal__row
+
+  &__row {
+    // .hot-deal__row_item
+
+    &_item {
+    }
+
+    // .hot-deal__row_item
+
+    &_item {
+    }
+
+    // .hot-deal__row_item
+
+    &_item {
+    }
+  }
+
+  // .hot-deal__fullwidth
+
+  &__fullwidth {
+    // .hot-deal__fullwidth_item
+
+    &_item {
+    }
+
+    // .hot-deal__fullwidth_item
+
+    &_item {
+    }
+
+    // .hot-deal__fullwidth_item
+
+    &_item {
+    }
+  }
+}
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.content-products {
+  // .content-products__list
+
+  &__list {
+  }
+
+  // .content-products__item
+
+  &__item {
+    // .content-products__item_img
+
+    &_img {
+    }
+
+    // .content-products__item_title
+
+    &_title {
+    }
+
+    // .content-products__item_description
+
+    &_description {
+    }
+
+    // .content-products__item_price
+
+    &_price {
+    }
+  }
+}
+.title {
+}
+.subtitle {
+}
+.btn {
+  // .btn__more
+
+  &__more {
+  }
+}
+.service-shop {
+  // .service-shop__item
+
+  &__item {
+    // .service-shop__item_img
+
+    &_img {
+    }
+
+    // .service-shop__item_title
+
+    &_title {
+    }
+
+    // .service-shop__item_description
+
+    &_description {
+    }
+  }
+}
+.footer {
+  // .footer__contacts
+
+  &__contacts {
+    // .footer__contacts_men
+
+    &_men {
+    }
+
+    // .footer__contacts_men
+
+    &_men {
+    }
+
+    // .footer__contacts_men
+
+    &_men {
+    }
+
+    // .footer__contacts_subscribe
+
+    &_subscribe {
+    }
+
+    // .footer__contacts_subscribe
+
+    &_subscribe {
+    }
+
+    // .footer__contacts_subscribe
+
+    &_subscribe {
+    }
+  }
+}
+.footer-subscribe {
+  // .footer-subscribe__input
+
+  &__input {
+  }
+
+  // .footer-subscribe__bautton
+
+  &__bautton {
+  }
+}
+.copiraites {
+  // .copiraites__text
+
+  &__text {
+  }
+
+  // .copiraites__soc
+
+  &__soc {
+  }
+}
